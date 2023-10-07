@@ -11,8 +11,8 @@ public:
                 i++;
                 if(count>=2){
                     for(char digit:to_string(count)){
-                        chars[i]=digit;
-                        i++;
+                        chars[i++]=digit;
+                        
                     }
 
                 }
