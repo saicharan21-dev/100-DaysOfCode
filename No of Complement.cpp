@@ -15,6 +15,6 @@ int countbits(int n)
         {
             num=num^(1<<i);
         }
-        return num
+        return num;
     }
 };
