@@ -1,4 +1,4 @@
-//The Idea is to use a stack and push elements into the stack one by one and check if the top element is 
+//The Idea is to use a stack and push elements into the stack one by one and check if the top element is equal to the current index of the string.
 
 class Solution {
 public:
