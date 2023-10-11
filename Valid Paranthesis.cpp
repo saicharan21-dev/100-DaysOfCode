@@ -1,3 +1,5 @@
+//The Idea is to use a stack and push elements into the stack one by one and check if the top element is 
+
 class Solution {
 public:
     bool isValid(string str){
