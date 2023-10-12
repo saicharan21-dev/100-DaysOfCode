@@ -12,3 +12,4 @@ public:
         }
     }
 };
+// The approach is when arr[i]==0 then we replace arr[j]
