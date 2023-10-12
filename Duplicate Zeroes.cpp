@@ -12,4 +12,4 @@ public:
         }
     }
 };
-// The approach is when arr[i]==0 then we replace arr[j]
+// The approach is when arr[i]==0 then we replace arr[j] with arr[j-1] which is the previous element
