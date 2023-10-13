@@ -1,11 +1,11 @@
-class solution{
-  public:
-    int lengthOfLastWord(string str){
-        stringstream iss(str);
+class Solution {
+public:
+    int lengthOfLastWord(string s) {
+        stringstream iss(s);
         string word,lastWord;
         while(iss>>word){
-          lastWord=word;
+           lastWord=word;
         }
-      return lastWord.length();
+        return lastWord.length();
     }
 };
