@@ -15,4 +15,4 @@ public:
         return -1;
     }
 };
-// The approach is to use two pointers 
+// The approach is to use two pointers, we iterate the for loop until the difference between length of haystack and needle.
