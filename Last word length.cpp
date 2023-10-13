@@ -9,4 +9,4 @@ public:
         return lastWord.length();
     }
 };
-// The Idea is to use stringstream from C++ library to break the string and store it in word and then store it to another
+// The Idea is to use stringstream from C++ library to break the string and store it in word and then store it to another variable lastWord which has the latest word from the string
