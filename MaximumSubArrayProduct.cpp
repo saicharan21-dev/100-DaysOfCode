@@ -25,4 +25,4 @@ public:
     }
     
 };
-// The idea is to use swap the currentMin and currentMax when the numnber in the array is less than 0.
+// The idea is to use swap the currentMin and currentMax when the numnber in the array is less than 0 and then finally updating maxProduct
