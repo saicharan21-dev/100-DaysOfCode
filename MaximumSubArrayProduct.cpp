@@ -25,3 +25,4 @@ public:
     }
     
 };
+// The idea is to use swap the currentMin and currentMax when the numnber in the array is less than 0.
