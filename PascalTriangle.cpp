@@ -11,3 +11,6 @@ public:
         return result[rowIndex];
     }
 };
+/*he reason for initializing the vector v with i+1 elements is because Pascal's Triangle is constructed in such a way that each row has one more element than the previous row. The number of elements in each row corresponds to the row number, with the first row having one element, the second row having two elements, the third row having three elements, and so on.
+
+For example, if you're constructing the third row of Pascal's Triangle, it should have three elements. If you're constructing the fifth row, it should have five elements, and so on.*/
