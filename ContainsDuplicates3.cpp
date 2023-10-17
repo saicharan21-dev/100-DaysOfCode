@@ -13,4 +13,6 @@ public:
         return false;
     }
 };
-// The idea is we check if the valueDiff is satisfying or not by checking the numbers in the array in between the indexDiff
+/*The idea is we check if the valueDiff is satisfying or not by checking the numbers in the array in between the indexDiff and after that we take the set because if all the numbers are unique and
+the valueDiff is zero
+*/
