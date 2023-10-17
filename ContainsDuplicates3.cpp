@@ -14,5 +14,5 @@ public:
     }
 };
 /*The idea is we check if the valueDiff is satisfying or not by checking the numbers in the array in between the indexDiff and after that we take the set because if all the numbers are unique and
-the valueDiff is zero
+the valueDiff is zero then without wasting further time we can just declare it as false, which would not eventually Lead to
 */
