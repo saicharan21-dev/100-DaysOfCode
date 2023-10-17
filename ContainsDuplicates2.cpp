@@ -11,3 +11,5 @@ public:
         return false;
     }
 }; 
+
+// The idea is to store the nums in a map and find if it already exists in the map if it does then we have to find the difference
