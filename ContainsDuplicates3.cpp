@@ -13,4 +13,4 @@ public:
         return false;
     }
 };
-// The idea is we check if the valueDiff is satisfying or not by checking the numbers in the array
+// The idea is we check if the valueDiff is satisfying or not by checking the numbers in the array in between the indexDiff
