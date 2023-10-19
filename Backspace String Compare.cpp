@@ -26,4 +26,4 @@ public:
         return vec1 == vec2;
     }
 };
-// so we want to delete the character in a string which is before the 
+//
