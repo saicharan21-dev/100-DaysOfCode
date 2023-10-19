@@ -26,4 +26,4 @@ public:
         return vec1 == vec2;
     }
 };
-//
+
